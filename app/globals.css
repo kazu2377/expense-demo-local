@@ -1,0 +1,32 @@
+.field-error {
+  color: #a94442;
+  margin: 8px 0 0;
+}
+
+.storage-error {
+  margin: 0 15px 15px;
+}
+
+.empty-remarks {
+  min-height: 20px;
+}
+
+.action-cell .btn + .btn,
+.detail-discard {
+  margin-left: 5px;
+}
+
+.ledger-total {
+  font-size: 18px;
+  margin: 45px 0 5px;
+}
+
+.footer .footer-notice {
+  float: none;
+  margin: 0;
+}
+
+.footer .footer-notice > li {
+  float: none;
+  line-height: 1.7;
+}
